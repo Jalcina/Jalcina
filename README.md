@@ -2,11 +2,11 @@
 
 **Programador Junior · DAM · Sevilla**
 
-Construyo software desde los 19 años. Llevo proyectos de cero a producción de forma autónoma — análisis, arquitectura, bases de datos, backend, automatizaciones e infraestructura. Uso **Claude Code e IA generativa a nivel profesional** como entorno principal de desarrollo.
+Construyo software desde los 19 años. Llevo proyectos de cero a producción de forma autónoma — análisis, arquitectura, bases de datos, backend, automatizaciones e infraestructura.
 
 ---
 
-## Stack actual
+## Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -14,7 +14,7 @@ Construyo software desde los 19 años. Llevo proyectos de cero a producción de 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/VPS_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -36,16 +36,16 @@ Construyo software desde los 19 años. Llevo proyectos de cero a producción de 
 
 ## Lo que me diferencia
 
-- **Agente IA autónomo** — desarrollé un agente que cada mañana busca potenciales clientes y ejecuta campañas de prospección sin intervención manual
-- **IA integrada en flujos reales** — no la uso como asistente puntual, la integro como parte central del sistema
-- **De cero a producción solo** — gestiono el código, el servidor VPS, el deploy, las bases de datos y la relación con el cliente
+- **Experiencia real desde el día uno** — no proyectos de clase, sino software para clientes reales en producción
+- **Full stack + infraestructura** — escribo el código, gestiono el servidor VPS, el DNS, el deploy y la base de datos
+- **Automatización aplicada** — he desarrollado sistemas que operan de forma autónoma sin intervención manual
 
 ---
 
 ## Actualmente
 
 - Cursando **Técnico Superior en DAM** (Desarrollo de Aplicaciones Multiplataforma) — Campus Cámara de Comercio de Sevilla
-- Expandiendo stack: Java, Kotlin, Android, SQL, redes
+- Expandiendo stack: Java, Kotlin, Android, SQL
 
 ---
 
