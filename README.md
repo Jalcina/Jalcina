@@ -1,50 +1,51 @@
 # Jaime Alcina Urdiales
 
-**Desarrollador web · Fundador de [thisweb.es](https://thisweb.es) · Sevilla**
+**Programador Junior · DAM · Sevilla**
 
-Construyo webs para negocios reales como autónomo. Stack completo: frontend, backend, bases de datos e infraestructura. Uso **Claude Code e IA generativa a nivel profesional** como entorno principal de desarrollo.
+Construyo software desde los 19 años. Llevo proyectos de cero a producción de forma autónoma — análisis, arquitectura, bases de datos, backend, automatizaciones e infraestructura. Uso **Claude Code e IA generativa a nivel profesional** como entorno principal de desarrollo.
 
 ---
 
-## Stack
+## Stack actual
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/VPS_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-## Proyectos en producción
+## Sistemas en producción
 
-| Web | Sector |
+| Proyecto | Sector |
 |---|---|
-| [thisweb.es](https://thisweb.es) | Agencia de desarrollo web — mi propio negocio |
+| [thisweb.es](https://thisweb.es) | Mi negocio — desarrollo de software para empresas |
 | [crearteland.es](https://crearteland.es) | Arte y creatividad |
 | [instrumentoselclavijero.com](https://instrumentoselclavijero.com) | Tienda de instrumentos musicales |
 | [inmobiliariaborja.es](https://inmobiliariaborja.es) | Inmobiliaria |
 | [constructoraborja.es](https://constructoraborja.es) | Constructora |
+| [segurosborja.es](https://segurosborja.es) | Seguros |
 | [byqkda.com](https://byqkda.com) | Cliente privado |
 
-Todas con mantenimiento mensual activo, bases de datos, sistemas automatizados y panel de administración propio.
+7 sistemas activos con bases de datos, automatizaciones, paneles de administración y mantenimiento mensual.
 
 ---
 
-## Lo que hago diferente
+## Lo que me diferencia
 
-- **Agente IA autónomo** — tengo un agente que cada mañana busca potenciales clientes y les envía emails de prospección sin intervención manual
-- **IA como herramienta de trabajo real** — no solo la uso, la integro en procesos de negocio
-- **Full stack desde el día uno** — gestiono el servidor VPS, los dominios, el DNS, el deploy y el código
+- **Agente IA autónomo** — desarrollé un agente que cada mañana busca potenciales clientes y ejecuta campañas de prospección sin intervención manual
+- **IA integrada en flujos reales** — no la uso como asistente puntual, la integro como parte central del sistema
+- **De cero a producción solo** — gestiono el código, el servidor VPS, el deploy, las bases de datos y la relación con el cliente
 
 ---
 
 ## Actualmente
 
-- Cursando **Técnico Superior en DAM** (Desarrollo de Aplicaciones Multiplataforma) en Campus Cámara de Comercio de Sevilla
-- Aceptando nuevos proyectos web — [thisweb.es](https://thisweb.es)
+- Cursando **Técnico Superior en DAM** (Desarrollo de Aplicaciones Multiplataforma) — Campus Cámara de Comercio de Sevilla
+- Expandiendo stack: Java, Kotlin, Android, SQL, redes
 
 ---
 
