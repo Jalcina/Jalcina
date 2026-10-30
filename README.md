@@ -51,5 +51,5 @@ Todas con mantenimiento mensual activo, bases de datos, sistemas automatizados y
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaimealcina)
-[![Gmail](https://img.shields.io/badge/jaimealcinaurdiales@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaimealcinaurdiales@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaimealcinaurdiales@gmail.com)
 [![Web](https://img.shields.io/badge/thisweb.es-22264a?style=flat-square&logo=googlechrome&logoColor=white)](https://thisweb.es)
